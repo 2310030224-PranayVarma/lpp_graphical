@@ -4,6 +4,8 @@ This project is a **web-based visualizer for Linear Programming Problems (LPP)**
 
 The visualizations are built using **Plotly**, making them interactive and browser-friendly.
 
+demo : [click me](https://lpp-graphical-visualizer-224.streamlit.app/)
+
 ---
 
 ## 📁 Project Structure
